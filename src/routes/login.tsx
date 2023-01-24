@@ -94,7 +94,7 @@ export default function Login() {
 
   return (
     <main>
-      <div class="card m-auto w-1/3 bg-base-100 shadow-xl p-10">
+      <div class="card min-w-min m-auto w-1/3 bg-base-100 shadow-xl p-10">
         <h2 class="card-title">Login</h2>
         <Form>
           <input
