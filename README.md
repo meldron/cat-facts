@@ -1,16 +1,7 @@
-# SolidStart
+# Solid Start Cat Facts
 
-Everything you need to build a Solid project, powered by [`solid-start`](https://start.solidjs.com);
-
-## Creating a project
-
-```bash
-# create a new project in the current directory
-npm init solid@latest
-
-# create a new project in my-app
-npm init solid@latest my-app
-```
+A short demo app to try out Solid Start, which allows you to save and manage your
+favorite cat facts provided from https://catfact.ninja 
 
 ## Developing
 
