@@ -3,6 +3,8 @@
 A short demo app to try out Solid Start, which allows you to save and manage your
 favorite cat facts provided from https://catfact.ninja 
 
+Presented at [inovex Meetup Erlangen](https://www.meetup.com/inovex-meetup-erlangen/events/290422122/) ([Slides](var/20230124-inovex_meetup-solidjs_introduction.pdf))
+
 ## Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
