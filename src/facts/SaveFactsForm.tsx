@@ -22,7 +22,6 @@ export function SaveFactsForm(props: SaveFactsFormProps) {
       const fact = form.get("fact");
 
       if (typeof fact !== "string" || fact.length == 0) {
-        console.log("fact not found");
         throw new FormError(`Fact not submitted correctly.`);
       }
 
